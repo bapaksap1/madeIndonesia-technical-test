@@ -1,0 +1,54 @@
+{
+  "quest": [
+    {
+      "step": 1,
+      "question": "What types of products do you buy online most often?",
+      "answer": ["Electronics", "Clothing", "Books"]
+    },
+    {
+      "step": 2,
+      "question": "Which online shopping platforms do you use regularly?",
+      "answer": ["Amazon", "eBay", "Etsy"]
+    },
+    {
+      "step": 3,
+      "question": "Do you prefer shopping on your computer or mobile device?",
+      "answer": ["Computer", "Mobile device", "Both equally"]
+    },
+    {
+      "step": 4,
+      "question": "How do you typically find the products you buy online?",
+      "answer": ["Search engines", "Social media", "Recommendations"]
+    },
+    {
+      "step": 5,
+      "question": "What factors influence your decision to make an online purchase?",
+      "answer": ["Price", "Product reviews", "Brand"]
+    },
+    {
+      "step": 6,
+      "question": "Have you ever returned a product you bought online? Why?",
+      "answer": ["Wrong item", "Defective item", "Didn't like it"]
+    },
+    {
+      "step": 7,
+      "question": "How often do you compare prices before making an online purchase?",
+      "answer": ["Always", "Sometimes", "Never"]
+    },
+    {
+      "step": 8,
+      "question": "Do you use online reviews to make purchasing decisions?",
+      "answer": ["Yes, always", "Yes, sometimes", "No"]
+    },
+    {
+      "step": 9,
+      "question": "What is your favorite online shopping experience and why?",
+      "answer": ["Ease of use", "Customer service", "Price"]
+    },
+    {
+      "step": 10,
+      "question": "Do you subscribe to any online shopping newsletters or notifications?",
+      "answer": ["Yes, many", "Yes, a few", "No"]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.timer-container {
+    font-size: 0.5rem;
+}
+
+@media (min-width: 768px) {
+    .timer-container {
+        font-size: 0.6rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .timer-container {
+        font-size: 0.7rem;
+    }
+}

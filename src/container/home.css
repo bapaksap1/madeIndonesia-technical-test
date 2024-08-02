@@ -1,0 +1,83 @@
+.home-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: auto;
+}
+
+.home-content {
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.timer {
+  position: absolute;
+  font-size: 0.5rem;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.progress {
+  width: 100%;
+  height: 8px;
+  background-color: grey;
+}
+.progress .progress-bar {
+  background-color: #9b6f9d;
+}
+
+.form {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.form-radio {
+}
+
+.form-radio .form-check-input:checked {
+  background-color: #9b6f9d; /* Checked state background */
+  border-color: #9b6f9d; /* Checked state border color */
+}
+
+.answer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  text-align: left;
+  p {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.answer-content {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .timer {
+    font-size: 0.6rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .timer {
+    font-size: 0.7rem;
+  }
+}
+

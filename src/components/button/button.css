@@ -1,0 +1,21 @@
+.button-container {
+    color: white;
+    border-radius: 20px;
+    background-color: #9B6F9D !important;
+    width: 100%;
+    border: none;
+}
+
+
+@media (min-width: 768px) {
+    .button-container {
+        width: 75%;
+    }
+}
+
+@media (min-width: 992px) {
+    .button-container {
+        width: 60%;
+    }
+}
+
